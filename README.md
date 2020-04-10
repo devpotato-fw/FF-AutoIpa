@@ -2,4 +2,4 @@
 1. autobuild.py：python打包脚本。
 2. autobuild.sh：shell打包脚本。
 3. jenkins.sh：jenkins打包脚本。
-[Blog地址](https://www.jianshu.com/p/bee0b0818828)
+4. [Blog地址](https://www.jianshu.com/p/bee0b0818828)
